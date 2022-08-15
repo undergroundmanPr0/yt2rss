@@ -23,7 +23,7 @@ Before using this tool you need to have some prerequisites as listed below:
 1. First, you will need a YouTube Data API v3 key which you can get by following this video https://www.youtube.com/watch?v=TE66McLMMEw watching upto 3:21
 2. After you get your API key mak sure that you update the `config.json` replacing `[API_KEY]` with your own API key and changing the `[LOCATION]` to a preferred one. Keeping the location blank will create the RSS xml file in the same directory where you will run this command line
 3. Make sure that you have Golang already installed on your machine. If not just run the command on your terminal `sudo apt install golang-go` The Golang will be installed on your machine. The version of Golang used to create this tool is `go1.18.1 linux/amd64`
-4. After having followed the above three steps run `sudo bash setup.sh` on your terminal.
+4. After having followed the above three steps run `sudo bash setup.sh` on your terminal (internet connection is required in this step).
 5. This step is also important, that is getting the channel id of your favorite YouTube channel. Go to your favorite YouTube crreator's channel page and copy the channel URL and paste in https://commentpicker.com/youtube-channel-id.php to find the channel id.
 
 Now, you're all set to run this tool on your local machine and get the RSS feed of any YouTube channel page.
