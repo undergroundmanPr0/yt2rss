@@ -51,7 +51,7 @@ func handleGet(getCmd *flag.FlagSet, channelID *string, filename *string) {
 	}
 
 	var api_config []config
-	fileBytes, err := ioutil.ReadFile("./config.json")
+	fileBytes, err := ioutil.ReadFile("/etc/config.json")
 
 	if err != nil {
 		fmt.Println("config.json not found, include one")

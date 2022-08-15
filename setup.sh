@@ -5,3 +5,4 @@ go get google.golang.org/api/googleapi/transport
 go mod tidy
 go build && echo "Build complete! Now use test_script.sh"
 cp ./yt2rss /usr/bin/yt2rss
+cp config.json /etc/config.json
