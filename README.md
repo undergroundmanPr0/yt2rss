@@ -1,6 +1,6 @@
 # yt2rss
 
-A simple command line API to fetch the video links and details of your favorite YouTube channel into an RSS(Really Simple Syndication) feed on your local machine which you can use with different RSS readers like [Newsboat](https://newsboat.org/), etc.
+A simple command line tool to fetch the video links and details of your favorite YouTube channel into an RSS(Really Simple Syndication) feed on your local machine which you can use with different RSS readers like [Newsboat](https://newsboat.org/), etc.
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dwyl/auth_plug/Elixir%20CI?label=build&style=flat-square)
 
