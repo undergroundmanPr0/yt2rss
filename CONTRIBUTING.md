@@ -20,7 +20,7 @@ Changes that are cosmetic in nature and do not add anything substantial to the s
 
 * Suggest your change to me in richkidmercier@protonmail.com and start writing code.
 
-* Do not open an issue on GitHub until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
+* Do not open an issue on GitHub until you have collected positive feedback about the change.
 
 #### **Do you have questions about the source code?**
 
