@@ -36,3 +36,9 @@ In order to use the tool run the following command replacing `[CHANNEL_ID]` and 
 	yt2rss get -c [CHANNEL_ID] -f [FILE_NAME]
 
 You will receive a file link as `file://[LOCATION]/[FILE_NAME].xml` which you can copy and paste in your RSS feed reader url list.
+
+## For contributing
+
+If you find any sort of issues while using yt2rss raise one here [Issues](https://github.com/undergroundmanPr0/yt2rss/issues)
+
+If you want to work on some features or enhancement on yt2rss then consider reading the [CONTRIBUTING.md](https://github.com/undergroundmanPr0/yt2rss/blob/main/CONTRIBUTING.md)
