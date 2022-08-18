@@ -41,4 +41,4 @@ You will receive a file link as `file://[LOCATION]/[FILE_NAME].xml` which you ca
 
 If you find any sort of issues while using yt2rss raise one here [Issues](https://github.com/undergroundmanPr0/yt2rss/issues)
 
-If you want to work on some features or enhancement on yt2rss then consider reading the [CONTRIBUTING.md](https://github.com/undergroundmanPr0/yt2rss/blob/main/CONTRIBUTING.md)
+If you want to work on some features or enhancement on yt2rss then consider reading the [CONTRIBUTING.md](https://github.com/undergroundmanPr0/yt2rss/blob/main/docs/CONTRIBUTING.md)
