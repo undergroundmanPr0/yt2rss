@@ -1,4 +1,3 @@
-#!/bin/sh
 echo "This is for setting up your tool!"
 [[ ! -f go.mod ]] && go mod init yt2rss
 go get google.golang.org/api/youtube/v3
