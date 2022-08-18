@@ -22,6 +22,8 @@ Changes that are cosmetic in nature and do not add anything substantial to the s
 
 * Do not open an issue on GitHub until you have collected positive feedback about the change.
 
+* If you fail to do these things, I will close your pull request and you will have to resubmit.
+
 #### **Do you have questions about the source code?**
 
 * Ask any question about how to use yt2rss on richkidmercier@protonmail.com
